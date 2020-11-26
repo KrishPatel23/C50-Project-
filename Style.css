@@ -1,0 +1,17 @@
+.menu {
+    display:flex; 
+    justify-content: space-between;
+    background-color: aquamarine;
+    font-size: 20px;
+    font-weight: 400;
+    color: black;
+}
+
+body{
+    background-color: gray;
+}
+
+.grid{
+    display: flex;
+  
+}
